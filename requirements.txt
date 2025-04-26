@@ -1,2 +1,7 @@
 python-dotenv
 openai
+requests
+typing
+bs4
+IPython
+ipykernel
