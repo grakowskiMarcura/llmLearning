@@ -5,3 +5,4 @@ typing
 bs4
 IPython
 ipykernel
+google.generativeai
